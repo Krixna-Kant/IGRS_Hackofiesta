@@ -177,9 +177,6 @@ widgets.Dropdown(options=categories, description='Category:')
 
 ## 🏆 Team Name: **Squirtles**
 ### **Team Members:**
-- **Ashish K Choudhary**
-- **Mohit Taneja**
-- **Prakriti Batra**
 - **Krishna**
 
 ---
